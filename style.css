@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+
+
+body, html{
+  margin: 0;
+  padding: 0;
+  background-color: #F0A1A8;
+  font-family: 'Righteous', cursive;
+  color: #DE3F7C;
+}
+
+
+.menu{
+  color: #EC7696;
+  font-size: 30px;
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.theTitle{
+  color: #EC7696;
+  font-size: 80px;
+  background-color: #DE3F7C;
+  padding-left: 60px;
+  position:absolute;
+  top: -150px;
+
+}
+
+.title2{
+  font-size: 80px;
+  letter-spacing: 30px;
+  padding-left: 195px;
+  position:absolute;
+  top:450px;
+}
+
+.intro{
+  font-size: 30px;
+  padding-left: 200px;
+  position:absolute;
+  top:715px;
+}
+
+.image img{
+  width: 250px;
+  padding-left: 1375px;
+  position: fixed;
+  top:100px;
+}
+
+.image2 img{
+  width: 800px;
+  padding-left: 195px;
+  position:  absolute;
+  top:100px;
+}
+
+.subti{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #EC7696;
+}
+
+.text{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container1{
+  margin-top:0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  align-items:flex-start;
+}
+
+
+.thumbnail{
+  display: inline-block;
+  width:32%;
+  height:100px;
+  padding: 0px;
+  margin: 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.img1{
+  width: 100%;
+}
+
+.sources{
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.text2{
+  padding-left: 50px;
+  font-size: 30px;
+}
+
+.link1{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.link2{
+  display: flex;
+  justify-content:center;
+}
+
+.link3{
+  display: flex;
+  justify-content:flex-end;
+}
+
+.vd{
+  display: flex;
+  justify-content:flex-end;
+}
